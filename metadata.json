@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2020-08-18",
-      "codified-date": "2020-03-02",
+      "codified-date": "2020-03-03",
       "platform": {
         "reproducible": "false",
         "version": "2.0.0"
@@ -13,7 +13,7 @@
           "name": "DCCouncil/law-xml"
         },
         {
-          "commit": "73e8cf67d6fa191b2796d0c5128983178d27016e",
+          "commit": "969c1f6e0a735c654c3cb95a77be654b8da31cae",
           "name": "DCCouncil/law-xml-codified"
         }
       ]
