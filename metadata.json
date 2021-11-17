@@ -1,11 +1,11 @@
 {
   "meta": {
     "build": {
-      "build-date": "2021-10-12",
-      "codified-date": "2021-10-12",
+      "build-date": "2021-11-17",
+      "codified-date": "2021-11-17",
       "platform": {
         "reproducible": "false",
-        "version": "2.4.0"
+        "version": "2.5.0"
       },
       "publication": "publication/2021-10-12-01",
       "repositories": [
@@ -14,7 +14,7 @@
           "name": "DCCouncil/law-xml"
         },
         {
-          "commit": "648bae393b9b4d59078ade68b21e56fd5ed61bf7",
+          "commit": "ccc65b9e813f4c90191ea598d9aa1a32c7b614e9",
           "name": "DCCouncil/law-xml-codified"
         }
       ]

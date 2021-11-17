@@ -80,7 +80,7 @@ filetypes = {
     'woff2',
 }
 
-AUTH_PATH_PREFIXES = ('/_api/authenticate', '/_api/check-hashes', '/_portal/api/annotations', )
+AUTH_PATH_PREFIXES = ('/_api/authenticate', '/_api/check-hashes', )
 HISTORICAL_VERSIONS_PATH_PREFIXES = ('/_publication', '/_date', '/_compare', )
 PORTAL_PATH_PREFIXES = ('/_portal', '/_api') + HISTORICAL_VERSIONS_PATH_PREFIXES
 
